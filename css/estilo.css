@@ -1,0 +1,87 @@
+figure{
+    width: 240px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    box-shadow: 5px 4px 9px black
+}
+.cafezin{
+    width: 100%;
+    border-radius: 18px 18px 0px 0;
+    padding-bottom: 10px;
+}
+h1{
+    font-size: 20pt;
+    width: 240px;    
+    margin: 0px;
+    display: inline;
+}
+.dist{
+    width: 300px;
+    padding: 5px 0;
+    display: inline;
+    margin-left: 45px;
+}
+
+.km{
+    font-size: 11pt;
+    display: inline;
+    margin: 0px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    left: 192px;
+    top: 185px;
+    font-weight: 500;
+}
+.dist img{
+    width: 20px;
+    box-sizing: border-box;
+}
+.estrelas img{
+    width: 90px;
+}
+.rating{
+    display: inline;
+    font-size: 11pt;
+    font-weight: 520;
+}
+h3{
+    font-weight: 600;
+}
+h1, .estrelas, .dindin{
+    margin-left: 5px;
+}
+.absd{
+    width: 235px;
+    margin-left: 5px;
+}
+.dias{
+    text-align: center;
+}
+.clock{
+    margin-left: 10px;
+    width: 25px;
+}
+.horario, .clock, .um, .dois, .tres{
+    display: inline;
+}
+.horario{
+    width: 20px;
+    position: relative;
+}
+.um, .dois, .tres{
+    font-size: 11pt;
+    margin-left: 5px;
+    font-weight: 500;
+}
+.reserva{
+    color: rgb(103, 142, 203);
+    text-align: center;
+    font-size: 16pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
